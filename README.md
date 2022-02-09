@@ -3,9 +3,9 @@
  <p>I am a second year chemistry university student in Toronto. My current goal is to become a front-end web developer.
  <p>I'm currently learning the basics of </p>
  <ul>
-  <li>CSS</li>
-  <li>HTML</li> 
-  <li>Javascript</li>
+  <li><em>HTML</em></li> 
+  <li><em>CSS</em></li>
+  <li><em>Javascript</em></li>
  </ul>
 
 <!---
