@@ -1,7 +1,6 @@
- 👋 Hi, my name is Lester Yiu.
- ✨ I’m interested in expanding my knowledge in front-end web development
- ✨ Currently learning the basics of CSS, HTML, Javascript
- ✨ Looking forward to 
+ -👋 Hi, my name is Lester Yiu.
+ -✨ I’m interested in expanding my knowledge in front-end web development
+ -✨ Currently learning the basics of CSS, HTML, Javascript
 
 <!---
 LesterYiu/LesterYiu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
