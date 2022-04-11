@@ -1,7 +1,7 @@
 # Welcome to my Github page<img src="https://github.com/LesterYiu/LesterYiu/blob/787de221e3b4e4ad168aa04263d6b8bc974cf4cc/wave.gif" width="30px">
  <p>Hey there! My name is <strong>Lester Yiu</strong>.</p>
  <p>I am a second year chemistry university student in Toronto. My current goal is to become a front-end web developer.</p>
- <p>I'm an aspiring front-end web developer with the end goal of becoming a full stack developer!</p>
+ <p>I'm an aspiring front-end web developer with the end goal of becoming a full stack developer currently studying at Juno College.</p>
  
  # Contact me
  
