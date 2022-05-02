@@ -7,7 +7,12 @@
  
  <p>Feel free to contact me via the methods below</p>
   <div>
-   <a href="mailto:lester.ws.yiu@gmail.com"><img src="https://github.com/LesterYiu/LesterYiu/blob/1fa103e6026b43e1dd3f506ef47d4252cae4b3c1/mail.png" height="auto" width="30px"></a>
+   <a href="mailto:lester.ws.yiu@gmail.com">
+    <img src="https://github.com/LesterYiu/LesterYiu/blob/1fa103e6026b43e1dd3f506ef47d4252cae4b3c1/mail.png" height="auto" width="30px">
+   </a>
+   <a href="https://ca.linkedin.com/in/lester-yiu-404010238">
+    <img src="https://github.com/LesterYiu/LesterYiu/blob/main/linkedingithubicon.png" height:"auto" width="25px"">
+   </a>
   </div>
 
 <!---
