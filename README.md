@@ -11,6 +11,7 @@ I am a front-end developer with a background in social media management creating
 *   🚀  I'm currently working on [Lets Get Quizzical](http://github.com/L-M-P-J/lets-get-quizzical)
 *   🧠  I'm learning Redux & TypeScript
 *   ⭐  <aside>My goal is to one day become a full-stack developer!</aside>
+*   ☕  Interested in meeting for a coffee chat? Book an appointment [here!](https://calendly.com/lester-yiu/)
 
 ### Skills
 <p align="left">
