@@ -1,7 +1,6 @@
 Hello World! My name is Lester Yiu
 ==================================================================================================================================
-
-A Front-End Web Developer
+I'm a Front-End Web Developer
 -------------------------
 
 I am a front-end developer with a background in social media management creating responsive and accessible web pages/applications using JavaScript (ES6), React, Redux, HTML5, CSS3, and jQuery.
