@@ -9,7 +9,7 @@ I am a front-end developer with a background in social media management creating
 *   🖥️  You can visit my AMAZING portfolio at [https://lesteryiu.com/](https://lesteryiu.com/)
 *   ✉️  Feel free to reach out to me at [lester.ws.yiu@gmail.com](mailto:lester.ws.yiu@gmail.com)
 *   🚀  I'm currently working on [Food Finder (React Version)](https://github.com/LesterYiu/food-finder) & revamping [Oat & Honey](https://github.com/LesterYiu/oatAndHoney)
-*   🧠  I'm learning Redux & TypeScript
+*   🧠  I'm learning SQL, Redux, and TypeScript
 *   ⭐  <aside>My goal is to one day become a full-stack developer!</aside>
 *   ☕  Interested in meeting for a coffee chat? Book an appointment [here!](https://calendly.com/lester-yiu/)
 
