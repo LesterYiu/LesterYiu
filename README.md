@@ -8,8 +8,8 @@ I am a front-end developer with a background in social media management creating
 *   🌍  I'm based in Toronto, Ontario / Ottawa, Ontario
 *   🖥️  You can visit my AMAZING portfolio at [https://lesteryiu.com/](https://lesteryiu.com/)
 *   ✉️  Feel free to reach out to me at [lester.ws.yiu@gmail.com](mailto:lester.ws.yiu@gmail.com)
-*   🚀  I'm currently working on [Habit Rabbit](https://github.com/LesterYiu/habit-rabbit)
-*   🧠  I'm learning Redux, and TypeScript
+*   🚀  I'm currently polishing my project called [Habit Rabbit](https://github.com/LesterYiu/habit-rabbit)
+*   🧠  I'm learning TypeScript
 *   ⭐  <aside>My goal is to one day become a full-stack developer!</aside>
 *   ☕  Interested in meeting for a coffee chat? Book an appointment [here!](https://calendly.com/lester-yiu/)
 
