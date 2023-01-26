@@ -3,13 +3,12 @@ Hello World! My name is Lester Yiu
 I'm a Front-End Web Developer
 -------------------------
 
-I am a front-end developer with a background in social media management creating responsive and accessible web pages/applications using JavaScript (ES6), React, Redux, HTML5, CSS3, SQL / PostgreSQL, and jQuery.
+I am a front-end developer with a background in social media management creating responsive and accessible web pages/applications using JavaScript (ES6), React, Redux, HTML5, CSS3, SQL / PostgreSQL, TypeScript, Webpack, and jQuery.
 
 *   🌍  I'm based in Toronto, Ontario / Ottawa, Ontario
 *   🖥️  You can visit my AMAZING portfolio at [https://lesteryiu.com/](https://lesteryiu.com/)
 *   ✉️  Feel free to reach out to me at [lester.ws.yiu@gmail.com](mailto:lester.ws.yiu@gmail.com)
-*   🚀  I'm currently polishing my project called [Habit Rabbit](https://github.com/LesterYiu/habit-rabbit)
-*   🧠  I'm learning TypeScript
+*   🚀  I'm currently working on my project called [Findr](https://github.com/LesterYiu/findr)
 *   ⭐  <aside>My goal is to one day become a full-stack developer!</aside>
 *   ☕  Interested in meeting for a coffee chat? Book an appointment [here!](https://calendly.com/lester-yiu/)
 
@@ -23,12 +22,12 @@ I am a front-end developer with a background in social media management creating
  <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
  <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+ <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 </p>
 <h3>Socials</h3>
 <p align="left"> 
  <a href="https://www.github.com/LesterYiu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
  <a href="https://www.linkedin.com/in/lester-y-404010238/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
- <a href="http://www.medium.com/@lesteryiu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a>
  </p>
 
 ### Badges
