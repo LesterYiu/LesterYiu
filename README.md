@@ -26,7 +26,3 @@ I am a front-end developer with a background in social media management creating
  <a href="https://www.github.com/LesterYiu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
  <a href="https://www.linkedin.com/in/lester-y-404010238/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
  </p>
-
-### Badges
-
-<a href="http://www.github.com/LesterYiu"><img src="https://github-readme-stats.vercel.app/api?username=LesterYiu&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=000000&icon_color=14b8a6&bg_color=ffffff&hide_border=true&show_icons=true" alt="LesterYiu's GitHub stats" /></a>
